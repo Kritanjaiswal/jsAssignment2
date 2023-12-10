@@ -1,0 +1,4 @@
+Q2. Describe the usage of the comma operator in JavaScript and provide an example.
+Answer:
+You can use the comma operator when you want to include multiple expressions in a location that requires a single expression. The most common usage of this operator is to supply multiple updaters in a for loop.
+example: the 10, 10+20 returns the value of the right expression, which is 10+20. Therefore, the result value is 30.
